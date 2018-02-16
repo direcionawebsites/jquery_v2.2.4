@@ -1,0 +1,30 @@
+{
+  "name": "jQuery_v2.2.4",
+  "description": "Descrição sobre o pacote",
+  "readmeFilename": "README.md" ,
+  "keywords": [
+    "jQuery_v2.2.4"
+  ],
+  "tags": [
+    "jQuery_v2.2.4"
+  ],
+  "version": "2.2.4",
+  "author": {
+    "name": "jQuery_v2.2.4",
+    "email": "lcquinhone@gmail.com",
+    "homepage": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/direcionawebsites/jquery_v2.2.4"
+  },
+  "dependencies":{
+    
+  },
+  "license": "MIT",
+  "engines": {
+    
+  },
+  "main": "index.js"
+}
+
